@@ -1,0 +1,7 @@
+{  
+    "employee": {  
+        "name":       "Bob",   
+        "salary":      56000,   
+        "comments":    "He is a nice man"  
+    }  
+}  

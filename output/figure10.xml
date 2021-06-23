@@ -1,0 +1,1 @@
+<object><object name="profiles"><string name="lastName">Smith</string><array name="friends"><string>Joe</string><object><string name="lastName">Jones</string><string name="firstName">Sue</string></object></array><number name="age">20</number><string name="firstName">John</string></object></object>

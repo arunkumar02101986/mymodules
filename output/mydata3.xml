@@ -1,0 +1,21 @@
+<array>
+	<object>
+		<null name="lastName"/>
+		<null name="age"/>
+		<null name="firstName"/>
+	</object>
+	<object>
+		<array name="person">
+			<object>
+				<string name="lastName">ltest</string>
+				<number name="age">20</number>
+				<string name="firstName">test</string>
+			</object>
+			<object>
+				<string name="lastName">ltest</string>
+				<number name="age">20</number>
+				<string name="firstName">test</string>
+			</object>
+		</array>
+	</object>
+</array>
